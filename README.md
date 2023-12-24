@@ -8,7 +8,6 @@ The problem statement highlights the significance of harnessing AR and VR techno
 
 ### Click below to watch Video
 
-[Click here to watch the video](https://youtube.com/shorts/8CiHawyc4zg?feature=share)
 | Home Screen | Home Screen |
 | :----------------------: | :----------------------: |
 | ![](ScreenShots/img1.jpg) | ![](ScreenShots/img2.jpg) |
